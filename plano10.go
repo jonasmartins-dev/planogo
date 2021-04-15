@@ -1,7 +1,7 @@
 package main
 
 import (
-	f "fmt"
+	"fmt"
 )
 
 func main() {
@@ -9,11 +9,11 @@ func main() {
 	a := 60
 
 	a++
-	
-	f.Println(a)
-	
+
+	fmt.Println(a)
+
 	a++
-	
-	f.Println(a)
+
+	fmt.Println(a)
 
 }
