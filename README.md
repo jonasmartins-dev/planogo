@@ -1,4 +1,4 @@
-# Inicio do PlanoGo
+### Inicio do PlanoGo
 ```
 git init
 git add .
